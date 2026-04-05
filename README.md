@@ -2,11 +2,7 @@
 
 # Hey, I'm Akshat Gosain 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;Building+with+OpenAI%2C+Cursor%2C+and+OpenClaw)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/akshat-gosain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/akshat-gosain)
-[![GitHub User's stars](https://img.shields.io/github/stars/akshat-gosain?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/akshat-gosain)
-[![Profile Views](https://komarev.com/ghpvc/?username=akshat-gosain&style=for-the-badge&color=blueviolet)](https://github.com/akshat-gosain)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;Building+with+OpenAI%2C+Cursor%2C+and+OpenClaw)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,6 +22,18 @@
 *I trade by day and build agentic systems by night* 📈⚙️
 
 </div>
+
+---
+
+## 🧾 Snapshot
+
+```text
+Role         Quant Trader
+Focus        Multi-Agent Architecture, Automation, AI Systems
+Tools        OpenAI, Cursor, OpenClaw
+Base         India
+Resume       See LinkedIn for latest experience snapshot
+```
 
 ---
 
@@ -65,6 +73,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshat-gosain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-gosain/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.gosain@gmail.com)
 
 </div>
@@ -78,6 +87,10 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+---
+
+> Most of the serious work I do in quant and execution-heavy systems lives behind confidentiality walls, so public repos are only a sliver of the real surface area. A lot of my visible recent energy has been going into architecting AI systems, automation, and agent workflows.
 
 ---
 
